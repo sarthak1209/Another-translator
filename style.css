@@ -1,0 +1,39 @@
+
+:root{
+    --primary-color: #0284C7;
+}
+ 
+body{
+    margin: 0px;
+    padding: 0%;
+}
+.header{
+    padding: 0.3rem;
+    text-align: center;
+  
+    background-color: var(--primary-color);
+
+}
+
+
+textarea
+{   display: block;
+    margin: auto;
+    height: 15vh;
+    width: 80%;
+
+}
+.button{
+    margin: auto;
+    text-align: center;
+}
+
+#div-output{
+    margin: auto;
+    border: 1px solid black;
+    height: 15vh;
+    width: 80%;
+}
+#btn-translate{
+background-color: var(--primary-color);
+}
